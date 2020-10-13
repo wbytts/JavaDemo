@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+    <book sn="a1123123">
+        <name>九阴真经</name>
+        <price>123.412</price>
+        <author>尹凌峰</author>
+    </book>
+    <book sn="b123123123">
+        <name>葵花宝典</name>
+        <price>99.99</price>
+        <author>班长</author>
+    </book>
+</books>
