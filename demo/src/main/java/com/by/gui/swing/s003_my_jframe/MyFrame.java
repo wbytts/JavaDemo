@@ -22,6 +22,5 @@ public class MyFrame extends JFrame {
 
         JLabel l2 = new JLabel("sssss");
         contentPane.add(l2);
-
     }
 }

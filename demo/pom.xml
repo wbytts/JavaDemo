@@ -135,7 +135,7 @@
             <version>1.2.73</version>
         </dependency>
 
-        <!--Hutool是一个小而全的Java工具类库-->
+        <!--Hutool是一个Java工具类库-->
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>

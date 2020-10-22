@@ -17,20 +17,35 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5920c410-ae5b-4289-abd7-3898a10156f8" name="Default Changelist" comment="" />
+    <list default="true" id="5920c410-ae5b-4289-abd7-3898a10156f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/GuavaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/ObjectsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/OptionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/OrderingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/PreconditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/StopwatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s001_helloworld/S001HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s001_helloworld/S001HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s003_my_jframe/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s003_my_jframe/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s004_button_click/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s004_button_click/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/scala/com/by/scala/demo/s003_变量/Demo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/scala/com/by/scala/demo/s003_变量/Demo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/META-INF/demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/META-INF/demo.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s001_helloworld/S001HelloWorld$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s001_helloworld/S001HelloWorld$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s001_helloworld/S001HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s001_helloworld/S001HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s003_my_jframe/MyFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s003_my_jframe/MyFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s004_button_click/MyFrame$MyButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s004_button_click/MyFrame$MyButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_001_程序入口点Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_001_程序入口点Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_002_函数Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_002_函数Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_003_将表达式作为函数体_返回值类型自动推断的函数Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_003_将表达式作为函数体_返回值类型自动推断的函数Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_004_函数返回无意义的值Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_004_函数返回无意义的值Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_005_Unit_返回类型可以省略Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_005_Unit_返回类型可以省略Kt.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +128,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="JPA.DatabaseSchemaImportDialog" value="c05d822f-16ee-4fee-b830-03b870052330" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -122,12 +138,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/demo/src/main/java/com/bingyi/io/aio" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../work/code/tokr-web" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46385542" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -156,7 +172,33 @@
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s009_JTextField" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HutoolDateTest.test_解析日期字符串">
+  <component name="RunManager" selected="Application.Demo (1)">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.scala.demo.s003_变量.Demo" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.scala.demo.s003_变量.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.scala.demo.s001_Hello.Demo" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.scala.demo.s001_Hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.by.gui.awt.HelloWorld" />
       <module name="demo" />
@@ -171,85 +213,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="001_groovy_hello" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="demo" />
-      <setting name="path" value="file://$PROJECT_DIR$/demo/src/main/groovy-scripts/001_groovy_hello.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/demo/src/main/groovy-scripts" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateDemo.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ObjectsTest.testHashCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.common.date_and_time.*" />
+          <option name="PATTERN" value="com.by.guava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.common.date_and_time" />
-      <option name="MAIN_CLASS_NAME" value="com.by.common.date_and_time.DateDemo" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="com.by.guava" />
+      <option name="MAIN_CLASS_NAME" value="com.by.guava.ObjectsTest" />
+      <option name="METHOD_NAME" value="testHashCode" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HutoolDateTest.test_解析日期字符串" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StopwatchTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.hutool.core_demo.date_demo.*" />
+          <option name="PATTERN" value="com.by.guava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.hutool.core_demo.date_demo" />
-      <option name="MAIN_CLASS_NAME" value="com.by.hutool.core_demo.date_demo.HutoolDateTest" />
-      <option name="METHOD_NAME" value="test_解析日期字符串" />
+      <option name="PACKAGE_NAME" value="com.by.guava" />
+      <option name="MAIN_CLASS_NAME" value="com.by.guava.StopwatchTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HutoolDemo01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StopwatchTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.hutool.core_demo.date_demo.*" />
+          <option name="PATTERN" value="com.by.guava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.hutool.core_demo.date_demo" />
-      <option name="MAIN_CLASS_NAME" value="com.by.hutool.core_demo.date_demo.HutoolDemo01" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="com.by.guava" />
+      <option name="MAIN_CLASS_NAME" value="com.by.guava.StopwatchTest" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_005_Unit_返回类型可以省略Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.by.kt.demo._005_Unit_返回类型可以省略Kt" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -330,20 +350,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Demo (1)" />
+      <item itemvalue="JUnit.ObjectsTest.testHashCode" />
+      <item itemvalue="JUnit.StopwatchTest.test1" />
+      <item itemvalue="JUnit.StopwatchTest.test2" />
       <item itemvalue="Tomcat Server.default" />
-      <item itemvalue="Kotlin._005_Unit_返回类型可以省略Kt" />
-      <item itemvalue="Groovy.001_groovy_hello" />
-      <item itemvalue="JUnit.DateDemo.test01" />
-      <item itemvalue="JUnit.HutoolDemo01.test01" />
-      <item itemvalue="JUnit.HutoolDateTest.test_解析日期字符串" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HutoolDateTest.test_解析日期字符串" />
-        <item itemvalue="JUnit.HutoolDemo01.test01" />
-        <item itemvalue="JUnit.DateDemo.test01" />
-        <item itemvalue="Groovy.001_groovy_hello" />
-        <item itemvalue="Kotlin._005_Unit_返回类型可以省略Kt" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.StopwatchTest.test2" />
+        <item itemvalue="JUnit.StopwatchTest.test1" />
+        <item itemvalue="JUnit.ObjectsTest.testHashCode" />
       </list>
     </recent_temporary>
   </component>
@@ -460,6 +480,16 @@
       <workItem from="1601401924725" duration="417000" />
       <workItem from="1602466945316" duration="1472000" />
       <workItem from="1602552896743" duration="20213000" />
+      <workItem from="1602591713721" duration="4411000" />
+      <workItem from="1602639229491" duration="1340000" />
+      <workItem from="1602646298619" duration="781000" />
+      <workItem from="1602656305948" duration="2895000" />
+      <workItem from="1602729102015" duration="1794000" />
+      <workItem from="1602740348790" duration="6127000" />
+      <workItem from="1602749003573" duration="172000" />
+      <workItem from="1602837171749" duration="576000" />
+      <workItem from="1603027364504" duration="1009000" />
+      <workItem from="1603165276186" duration="1652000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1602583983806</created>
@@ -487,6 +517,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
@@ -495,10 +526,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1602580918360" />
-    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600668823191">
+    <state x="654" y="408" width="596" height="297" key="#Vim_Emulation" timestamp="1603170653952">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1600668823191" />
+    <state x="654" y="408" width="596" height="297" key="#Vim_Emulation/0.0.1920.1050@0.0.1920.1050" timestamp="1603170653952" />
+    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603170639696">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1603170639696" />
     <state x="266" y="204" width="1066" height="641" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1602580349035">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -511,30 +546,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="268" y="79" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1602583978787" />
-    <state x="765" y="313" key="FileChooserDialogImpl" timestamp="1602580818662">
+    <state x="765" y="313" key="FileChooserDialogImpl" timestamp="1602641427910">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602580818662" />
-    <state width="1877" height="211" key="GridCell.Tab.0.bottom" timestamp="1602584000167">
+    <state x="765" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602641427910" />
+    <state width="1877" height="167" key="GridCell.Tab.0.bottom" timestamp="1603172629411">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1602584000167" />
-    <state width="1877" height="211" key="GridCell.Tab.0.center" timestamp="1602584000165">
+    <state width="1877" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603172629411" />
+    <state width="1877" height="167" key="GridCell.Tab.0.center" timestamp="1603172629410">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="211" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1602584000165" />
-    <state width="1877" height="211" key="GridCell.Tab.0.left" timestamp="1602584000165">
+    <state width="1877" height="167" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603172629410" />
+    <state width="1877" height="167" key="GridCell.Tab.0.left" timestamp="1603172629408">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="211" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1602584000165" />
-    <state width="1877" height="211" key="GridCell.Tab.0.right" timestamp="1602584000166">
+    <state width="1877" height="167" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603172629408" />
+    <state width="1877" height="167" key="GridCell.Tab.0.right" timestamp="1603172629411">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="211" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1602584000166" />
-    <state x="228" y="126" width="1371" height="728" key="SettingsEditor" timestamp="1602580844501">
+    <state width="1877" height="167" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603172629411" />
+    <state x="228" y="126" width="1371" height="728" key="SettingsEditor" timestamp="1603170626232">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="228" y="126" width="1371" height="728" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602580844501" />
+    <state x="228" y="126" width="1371" height="728" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603170626232" />
     <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1602584055188">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -555,10 +590,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1602467580041" />
-    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1602582520943">
+    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1602626862525">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1602582520943" />
+    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1602626862525" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

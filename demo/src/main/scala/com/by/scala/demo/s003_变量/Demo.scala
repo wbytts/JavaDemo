@@ -22,7 +22,7 @@ object Demo {
     /*
         var 修饰的变量可以改变
         val 修饰的变量不可以修改
-            val没有线程安全问题，因此效率高
+            val 没有线程安全问题，因此效率高
      */
 
     val dog = new Dog

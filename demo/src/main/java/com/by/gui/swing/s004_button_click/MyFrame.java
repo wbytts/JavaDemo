@@ -41,10 +41,12 @@ public class MyFrame extends JFrame {
         timeLabel.setText(timeStr);
     }
 
+    // 定义一个动作监听器（实现 ActionListener）
     private class MyButtonListener implements ActionListener {
 
         @Override
         public void actionPerformed(ActionEvent e) {
+            System.out.println(e);
             System.out.println("按钮被点击了");
             //MyFrame.this.showTime();
             showTime(); // 没有歧义，可省略 MyFrame.this.
