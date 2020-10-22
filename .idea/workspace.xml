@@ -22,14 +22,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5920c410-ae5b-4289-abd7-3898a10156f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/json/jackson/JacksonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/json/jackson/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/regex/TestRegex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/RegexUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +152,7 @@
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s009_JTextField" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JacksonTest.test01">
+  <component name="RunManager" selected="JUnit.TestRegex.test02">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.by.scala.demo.s003_变量.Demo" />
       <module name="demo" />
@@ -227,33 +222,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopwatchTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRegex.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.guava.*" />
+          <option name="PATTERN" value="com.by.regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.guava" />
-      <option name="MAIN_CLASS_NAME" value="com.by.guava.StopwatchTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.by.regex" />
+      <option name="MAIN_CLASS_NAME" value="com.by.regex.TestRegex" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopwatchTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRegex.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.guava.*" />
+          <option name="PATTERN" value="com.by.regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.guava" />
-      <option name="MAIN_CLASS_NAME" value="com.by.guava.StopwatchTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="com.by.regex" />
+      <option name="MAIN_CLASS_NAME" value="com.by.regex.TestRegex" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -337,18 +332,18 @@
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Demo" />
       <item itemvalue="Application.Demo (1)" />
-      <item itemvalue="JUnit.StopwatchTest.test1" />
-      <item itemvalue="JUnit.StopwatchTest.test2" />
       <item itemvalue="Tomcat Server.default" />
       <item itemvalue="JUnit.JacksonTest.test01" />
+      <item itemvalue="JUnit.TestRegex.test01" />
+      <item itemvalue="JUnit.TestRegex.test02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRegex.test02" />
+        <item itemvalue="JUnit.TestRegex.test01" />
         <item itemvalue="JUnit.JacksonTest.test01" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="JUnit.StopwatchTest.test2" />
-        <item itemvalue="JUnit.StopwatchTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -475,7 +470,7 @@
       <workItem from="1602837171749" duration="576000" />
       <workItem from="1603027364504" duration="1009000" />
       <workItem from="1603165276186" duration="1652000" />
-      <workItem from="1603346349416" duration="2848000" />
+      <workItem from="1603346349416" duration="8924000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1602583983806</created>
@@ -491,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603346432542</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Jackson Demo">
+      <created>1603350322806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603350322806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +514,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="Jackson Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jackson Demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="99" key="#Project_Structure" timestamp="1602580918360">
@@ -535,42 +538,46 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="643" y="244" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602580598132" />
-    <state x="268" y="79" key="CommitChangelistDialog2" timestamp="1603346430099">
+    <state x="268" y="79" key="CommitChangelistDialog2" timestamp="1603350320894">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="268" y="79" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1603346430099" />
+    <state x="268" y="79" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1603350320894" />
     <state x="765" y="313" key="FileChooserDialogImpl" timestamp="1602641427910">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602641427910" />
-    <state width="1877" height="307" key="GridCell.Tab.0.bottom" timestamp="1603349006708">
+    <state width="1877" height="206" key="GridCell.Tab.0.bottom" timestamp="1603355318830">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603349006708" />
-    <state width="1877" height="307" key="GridCell.Tab.0.center" timestamp="1603349006708">
+    <state width="1877" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603355318830" />
+    <state width="1877" height="206" key="GridCell.Tab.0.center" timestamp="1603355318830">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603349006708" />
-    <state width="1877" height="307" key="GridCell.Tab.0.left" timestamp="1603349006707">
+    <state width="1877" height="206" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603355318830" />
+    <state width="1877" height="206" key="GridCell.Tab.0.left" timestamp="1603355318830">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603349006707" />
-    <state width="1877" height="307" key="GridCell.Tab.0.right" timestamp="1603349006708">
+    <state width="1877" height="206" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603355318830" />
+    <state width="1877" height="206" key="GridCell.Tab.0.right" timestamp="1603355318830">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603349006708" />
+    <state width="1877" height="206" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603355318830" />
     <state x="228" y="126" width="1371" height="728" key="SettingsEditor" timestamp="1603170626232">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="228" y="126" width="1371" height="728" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603170626232" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603346434406">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603350327135">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603346434406" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603350327135" />
     <state x="823" y="369" key="cloudConfig.SelfSettingsDialog" timestamp="1601402045493">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="823" y="369" key="cloudConfig.SelfSettingsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601402045493" />
+    <state x="764" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603355598344">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="764" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603355598344" />
     <state x="290" y="102" width="1414" height="819" key="find.popup" timestamp="1602583899823">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -579,10 +586,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="334" y="185" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1602553595375" />
-    <state x="616" y="243" key="run.anything.popup" timestamp="1602467580041">
+    <state x="616" y="243" key="run.anything.popup" timestamp="1603353674113">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1602467580041" />
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603353674113" />
     <state x="658" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1602626862525">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
