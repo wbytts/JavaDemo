@@ -22,29 +22,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5920c410-ae5b-4289-abd7-3898a10156f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/GuavaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/ObjectsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/OptionalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/OrderingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/PreconditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/guava/StopwatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/json/jackson/JacksonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/json/jackson/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s001_helloworld/S001HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s001_helloworld/S001HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s003_my_jframe/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s003_my_jframe/MyFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s004_button_click/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s004_button_click/MyFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/scala/com/by/scala/demo/s003_变量/Demo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/scala/com/by/scala/demo/s003_变量/Demo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/META-INF/demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/META-INF/demo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s001_helloworld/S001HelloWorld$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s001_helloworld/S001HelloWorld$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s001_helloworld/S001HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s001_helloworld/S001HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s003_my_jframe/MyFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s003_my_jframe/MyFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s004_button_click/MyFrame$MyButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s004_button_click/MyFrame$MyButtonListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_001_程序入口点Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_001_程序入口点Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_002_函数Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_002_函数Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_003_将表达式作为函数体_返回值类型自动推断的函数Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_003_将表达式作为函数体_返回值类型自动推断的函数Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_004_函数返回无意义的值Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_004_函数返回无意义的值Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_005_Unit_返回类型可以省略Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/kt/demo/_005_Unit_返回类型可以省略Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +157,7 @@
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s009_JTextField" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="JUnit.JacksonTest.test01">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.by.scala.demo.s003_变量.Demo" />
       <module name="demo" />
@@ -226,17 +211,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectsTest.testHashCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JacksonTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.guava.*" />
+          <option name="PATTERN" value="com.by.json.jackson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.guava" />
-      <option name="MAIN_CLASS_NAME" value="com.by.guava.ObjectsTest" />
-      <option name="METHOD_NAME" value="testHashCode" />
+      <option name="PACKAGE_NAME" value="com.by.json.jackson" />
+      <option name="MAIN_CLASS_NAME" value="com.by.json.jackson.JacksonTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -352,18 +337,18 @@
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Demo" />
       <item itemvalue="Application.Demo (1)" />
-      <item itemvalue="JUnit.ObjectsTest.testHashCode" />
       <item itemvalue="JUnit.StopwatchTest.test1" />
       <item itemvalue="JUnit.StopwatchTest.test2" />
       <item itemvalue="Tomcat Server.default" />
+      <item itemvalue="JUnit.JacksonTest.test01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JacksonTest.test01" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="JUnit.StopwatchTest.test2" />
         <item itemvalue="JUnit.StopwatchTest.test1" />
-        <item itemvalue="JUnit.ObjectsTest.testHashCode" />
       </list>
     </recent_temporary>
   </component>
@@ -490,6 +475,7 @@
       <workItem from="1602837171749" duration="576000" />
       <workItem from="1603027364504" duration="1009000" />
       <workItem from="1603165276186" duration="1652000" />
+      <workItem from="1603346349416" duration="2848000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1602583983806</created>
@@ -498,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602583983806</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1603346432542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603346432542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,38 +535,38 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="643" y="244" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602580598132" />
-    <state x="268" y="79" key="CommitChangelistDialog2" timestamp="1602583978787">
+    <state x="268" y="79" key="CommitChangelistDialog2" timestamp="1603346430099">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="268" y="79" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1602583978787" />
+    <state x="268" y="79" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1603346430099" />
     <state x="765" y="313" key="FileChooserDialogImpl" timestamp="1602641427910">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602641427910" />
-    <state width="1877" height="167" key="GridCell.Tab.0.bottom" timestamp="1603172629411">
+    <state width="1877" height="307" key="GridCell.Tab.0.bottom" timestamp="1603349006708">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603172629411" />
-    <state width="1877" height="167" key="GridCell.Tab.0.center" timestamp="1603172629410">
+    <state width="1877" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603349006708" />
+    <state width="1877" height="307" key="GridCell.Tab.0.center" timestamp="1603349006708">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="167" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603172629410" />
-    <state width="1877" height="167" key="GridCell.Tab.0.left" timestamp="1603172629408">
+    <state width="1877" height="307" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603349006708" />
+    <state width="1877" height="307" key="GridCell.Tab.0.left" timestamp="1603349006707">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="167" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603172629408" />
-    <state width="1877" height="167" key="GridCell.Tab.0.right" timestamp="1603172629411">
+    <state width="1877" height="307" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603349006707" />
+    <state width="1877" height="307" key="GridCell.Tab.0.right" timestamp="1603349006708">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="167" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603172629411" />
+    <state width="1877" height="307" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603349006708" />
     <state x="228" y="126" width="1371" height="728" key="SettingsEditor" timestamp="1603170626232">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="228" y="126" width="1371" height="728" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603170626232" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1602584055188">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603346434406">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1602584055188" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603346434406" />
     <state x="823" y="369" key="cloudConfig.SelfSettingsDialog" timestamp="1601402045493">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

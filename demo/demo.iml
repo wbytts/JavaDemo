@@ -94,6 +94,9 @@
     <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.10.0" level="project" />
     <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.14.1" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:3.14.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.0" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.73" level="project" />
     <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.4.4" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:29.0-jre" level="project" />
