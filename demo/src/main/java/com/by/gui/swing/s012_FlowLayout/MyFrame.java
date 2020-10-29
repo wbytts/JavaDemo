@@ -42,7 +42,5 @@ public class MyFrame extends JFrame {
         contentPane.add(a4);
         contentPane.add(a5);
     }
-
-
 }
 

@@ -4,12 +4,14 @@ import javafx.application.Application;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 
+/**
+ * @author wangby
+ */
 public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         Stage s1 = new Stage();
         s1.setTitle("s1");
-
 
         Stage s2 = new Stage();
         s2.setTitle("s2");

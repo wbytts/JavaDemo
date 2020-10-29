@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project name="demo">
+    <target name="hello">
+        <echo message="Hello World"/>
+    </target>
+</project>

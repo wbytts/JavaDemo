@@ -11,7 +11,7 @@ import java.util.Properties;
 /**
  * @author bingyi
  */
-public class JDBCUtils {
+public class JDBCUtil {
 
     static String driverClass = null;
     static String url = null;
@@ -24,7 +24,7 @@ public class JDBCUtils {
             Properties properties = new Properties();
 
             //使用类加载器，去获取src底下的文件，要自己创建jdbc.properties配置文件
-            InputStream is = JDBCUtils.class.getClassLoader().getResourceAsStream("jdbc.properties");
+            InputStream is = JDBCUtil.class.getClassLoader().getResourceAsStream("jdbc.properties");
             // System.out.println(JDBCUtils.class.getClassLoader().getResource("/").getPath());
             // Thread.currentThread().getContextClassLoader().getResourceAsStream("jdbc.properties");
 
@@ -43,6 +43,7 @@ public class JDBCUtils {
     public static Connection getConnection() {
         Connection conn = null;
         try {
+            // 加载驱动类
             Class.forName(driverClass);
             conn = DriverManager.getConnection(url, name, password);
         } catch (Exception e) {
@@ -54,9 +55,9 @@ public class JDBCUtils {
 
     /**
      *  释放资源
-     * @param conn
-     * @param st
-     * @param rs
+     * @param conn 连接
+     * @param st Statement
+     * @param rs ResultSet
 
      */
     public static void release(Connection conn, Statement st, ResultSet rs) {
@@ -67,6 +68,10 @@ public class JDBCUtils {
 
     public static void release(Connection  conn, Statement st) {
         closeSt(st);
+        closeConn(conn);
+    }
+
+    public static void release(Connection  conn) {
         closeConn(conn);
     }
 

@@ -30,6 +30,7 @@ public class MyFrame extends JFrame {
         colorList.addItem("绿色");
         colorList.addItem("蓝色");
 
+        // 使用了 lambda
         colorList.addActionListener(e -> selectColor());
     }
 
@@ -42,7 +43,6 @@ public class MyFrame extends JFrame {
         } else {
             sampleText.setForeground(Color.BLUE);
         }
-
     }
 
 }

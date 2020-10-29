@@ -22,7 +22,7 @@ public class Test01 {
 
     }
 
-    // 注解可以显示赋值，如果没有默认值，我们就必须给注解赋值
+    // 注解可以显式赋值，如果没有默认值，我们就必须给注解赋值
     @SuppressWarnings("all")
     @MyAnnotation(name = "bingyi")
     public void test2() {

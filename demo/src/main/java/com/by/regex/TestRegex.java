@@ -32,7 +32,4 @@ public class TestRegex {
         List<String> all = RegexUtil.findAll(pattern, text);
         System.out.println(all);
     }
-
-
-
 }

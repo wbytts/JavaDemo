@@ -3,6 +3,9 @@ package com.by.gui.javafx.S001_第一个程序HelloWorld;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
+/**
+ * @author wangby
+ */
 public class HelloWorld extends Application {
 
     public static void main(String[] args) {
