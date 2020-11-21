@@ -12,7 +12,6 @@ public class FastJsonDemo {
 
     @Test
     public void test1() {
-
         List<String> list = new ArrayList<>();
         list.add("123123123");
         list.add("456456456");

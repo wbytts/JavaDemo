@@ -32,7 +32,6 @@ public class TestJDBCUtil {
 
         Statement statement = connection.createStatement();
 
-
         JDBCUtil.release(connection, statement);
     }
 }

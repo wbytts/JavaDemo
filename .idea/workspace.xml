@@ -22,34 +22,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5920c410-ae5b-4289-abd7-3898a10156f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/jul/JULTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/log4j/Log4jTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/DateTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/RegexTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/logging.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c05d822f-16ee-4fee-b830-03b870052330.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c05d822f-16ee-4fee-b830-03b870052330/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c05d822f-16ee-4fee-b830-03b870052330/storage_v2/_src_/schema/test.kkQ2AA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/annotation/s001_hello/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/annotation/s001_hello/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S001_第一个程序HelloWorld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S001_第一个程序HelloWorld/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S002_Application的启动方式/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S002_Application的启动方式/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S002_Application的启动方式/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S002_Application的启动方式/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S002_Application的启动方式/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S002_Application的启动方式/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S006_Stage模态/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S006_Stage模态/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s011_JComboBox/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s011_JComboBox/MyFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s012_FlowLayout/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/swing/s012_FlowLayout/MyFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/TestJDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/TestJDBCUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/demo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/io/s01/MyIOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/io/s01/MyIOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/TestJDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/TestJDBCUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/json/fastjson/FastJsonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/json/fastjson/FastJsonDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/regex/TestRegex.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/regex/TestRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S001_第一个程序HelloWorld/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S001_第一个程序HelloWorld/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S002_Application的启动方式/Launch.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S002_Application的启动方式/Launch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S002_Application的启动方式/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S002_Application的启动方式/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S002_Application的启动方式/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S002_Application的启动方式/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S002_Application的启动方式/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S002_Application的启动方式/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S006_Stage模态/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/javafx/S006_Stage模态/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s011_JComboBox/MyFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/gui/swing/s011_JComboBox/MyFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/jdbc/JDBCUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/jdbc/TestJDBCUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/util/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/util/RegexUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/scala/com/by/scala/demo/s002_string/Demo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/scala/com/by/scala/demo/s002_string/Demo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/demo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/demo/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/io/s01/MyIOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/io/s01/MyIOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/jdbc/TestJDBCUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/jdbc/TestJDBCUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/json/fastjson/FastJsonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/json/fastjson/FastJsonDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/regex/TestRegex.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/regex/TestRegex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/util/DateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/util/RegexUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/log4j.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,15 +117,26 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/demo/src/main/java/com/bingyi/io/aio" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/build.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/src/main/java/com/by/jul" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46385542" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.wby.domain" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\IDEA\JavaDemo\demo\src\main\java\com\by\jul" />
+      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\jdbc" />
+      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s012_FlowLayout" />
+      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s011_JComboBox" />
+      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s010_JCheckBox" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bingyi.poi" />
       <recent name="com.util" />
@@ -135,38 +144,14 @@
       <recent name="com.bingyi.gui.swing.s004_button_click" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\project\IDEA\JavaDemo\demo\src\main\resources" />
       <recent name="F:\project\IDEA\JavaDemo\demo\src\main\groovy-scripts" />
       <recent name="F:\project\IDEA\JavaDemo\demo\src\main\kotlin\com\by\kt\demo" />
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main\resources" />
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main" />
-      <recent name="F:\code\IDEA\JavaDemo\demo\src" />
-    </key>
-    <key name="ImportMappingsDialog.RecentPackages">
-      <recent name="com.wby.domain" />
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\jdbc" />
-      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s012_FlowLayout" />
-      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s011_JComboBox" />
-      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s010_JCheckBox" />
-      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s009_JTextField" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestJDBCUtil.test01">
-    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.by.gui.swing.s009_JTextField.Demo" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.by.gui.swing.s009_JTextField.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Log4jTest.test01">
     <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.by.gui.awt.HelloWorld" />
       <module name="demo" />
@@ -181,73 +166,94 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJDBCUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.by.jdbc.TestJDBCUtil" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.by.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJDBCUtil.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JULTest.testAddSelfProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.jdbc.*" />
+          <option name="PATTERN" value="com.by.jul.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.jdbc" />
-      <option name="MAIN_CLASS_NAME" value="com.by.jdbc.TestJDBCUtil" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="com.by.jul" />
+      <option name="MAIN_CLASS_NAME" value="com.by.jul.JULTest" />
+      <option name="METHOD_NAME" value="testAddSelfProperties" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRegex.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JULTest.testFuZi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.regex.*" />
+          <option name="PATTERN" value="com.by.jul.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.regex" />
-      <option name="MAIN_CLASS_NAME" value="com.by.regex.TestRegex" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="com.by.jul" />
+      <option name="MAIN_CLASS_NAME" value="com.by.jul.JULTest" />
+      <option name="METHOD_NAME" value="testFuZi" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRegex.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JULTest.testJUL01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.regex.*" />
+          <option name="PATTERN" value="com.by.jul.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.regex" />
-      <option name="MAIN_CLASS_NAME" value="com.by.regex.TestRegex" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="PACKAGE_NAME" value="com.by.jul" />
+      <option name="MAIN_CLASS_NAME" value="com.by.jul.JULTest" />
+      <option name="METHOD_NAME" value="testJUL01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JULTest.testLevel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.jul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.by.jul" />
+      <option name="MAIN_CLASS_NAME" value="com.by.jul.JULTest" />
+      <option name="METHOD_NAME" value="testLevel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Log4jTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.log4j.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.by.log4j" />
+      <option name="MAIN_CLASS_NAME" value="com.by.log4j.Log4jTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -329,20 +335,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.Demo (2)" />
-      <item itemvalue="JUnit.TestRegex.test01" />
-      <item itemvalue="JUnit.TestRegex.test02" />
+      <item itemvalue="JUnit.JULTest.testJUL01" />
+      <item itemvalue="JUnit.JULTest.testLevel" />
+      <item itemvalue="JUnit.JULTest.testFuZi" />
+      <item itemvalue="JUnit.JULTest.testAddSelfProperties" />
       <item itemvalue="Tomcat Server.default" />
-      <item itemvalue="Application.TestJDBCUtils" />
-      <item itemvalue="JUnit.TestJDBCUtil.test01" />
+      <item itemvalue="JUnit.Log4jTest.test01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestJDBCUtil.test01" />
-        <item itemvalue="Application.TestJDBCUtils" />
-        <item itemvalue="Application.Demo (2)" />
-        <item itemvalue="JUnit.TestRegex.test02" />
-        <item itemvalue="JUnit.TestRegex.test01" />
+        <item itemvalue="JUnit.Log4jTest.test01" />
+        <item itemvalue="JUnit.JULTest.testAddSelfProperties" />
+        <item itemvalue="JUnit.JULTest.testFuZi" />
+        <item itemvalue="JUnit.JULTest.testLevel" />
+        <item itemvalue="JUnit.JULTest.testJUL01" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +478,19 @@
       <workItem from="1603346349416" duration="9813000" />
       <workItem from="1603415512969" duration="11056000" />
       <workItem from="1603760622723" duration="2730000" />
-      <workItem from="1603936434519" duration="2491000" />
+      <workItem from="1603936434519" duration="3086000" />
+      <workItem from="1604020154644" duration="1805000" />
+      <workItem from="1604024968584" duration="6605000" />
+      <workItem from="1604306986338" duration="2331000" />
+      <workItem from="1604409801823" duration="1812000" />
+      <workItem from="1604461016033" duration="4320000" />
+      <workItem from="1605575456531" duration="917000" />
+      <workItem from="1605576495907" duration="1317000" />
+      <workItem from="1605602597443" duration="1446000" />
+      <workItem from="1605624949536" duration="1152000" />
+      <workItem from="1605667000369" duration="799000" />
+      <workItem from="1605950244191" duration="6225000" />
+      <workItem from="1605972206464" duration="1435000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1602583983806</created>
@@ -572,30 +590,94 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1603437234713" />
-    <state width="1877" height="301" key="GridCell.Tab.0.bottom" timestamp="1603937188172">
+    <state width="1877" height="251" key="GridCell.Tab.0.bottom" timestamp="1605972721942">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603937188172" />
-    <state width="1877" height="301" key="GridCell.Tab.0.center" timestamp="1603937188172">
+    <state width="1877" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605972721942" />
+    <state width="1877" height="251" key="GridCell.Tab.0.center" timestamp="1605972721942">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603937188172" />
-    <state width="1877" height="301" key="GridCell.Tab.0.left" timestamp="1603937188171">
+    <state width="1877" height="251" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605972721942" />
+    <state width="1877" height="251" key="GridCell.Tab.0.left" timestamp="1605972721941">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603937188171" />
-    <state width="1877" height="301" key="GridCell.Tab.0.right" timestamp="1603937188172">
+    <state width="1877" height="251" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605972721941" />
+    <state width="1877" height="251" key="GridCell.Tab.0.right" timestamp="1605972721942">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="301" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603937188172" />
+    <state width="1877" height="251" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605972721942" />
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom" timestamp="1605971739854">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739854" />
+    <state width="1877" height="342" key="GridCell.Tab.1.center" timestamp="1605971739854">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739854" />
+    <state width="1877" height="342" key="GridCell.Tab.1.left" timestamp="1605971739854">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739854" />
+    <state width="1877" height="342" key="GridCell.Tab.1.right" timestamp="1605971739854">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739854" />
+    <state width="1877" height="342" key="GridCell.Tab.2.bottom" timestamp="1605971739859">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739859" />
+    <state width="1877" height="342" key="GridCell.Tab.2.center" timestamp="1605971739859">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739859" />
+    <state width="1877" height="342" key="GridCell.Tab.2.left" timestamp="1605971739859">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739859" />
+    <state width="1877" height="342" key="GridCell.Tab.2.right" timestamp="1605971739859">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739859" />
+    <state width="1877" height="342" key="GridCell.Tab.3.bottom" timestamp="1605971739860">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739860" />
+    <state width="1877" height="342" key="GridCell.Tab.3.center" timestamp="1605971739860">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739860" />
+    <state width="1877" height="342" key="GridCell.Tab.3.left" timestamp="1605971739860">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739860" />
+    <state width="1877" height="342" key="GridCell.Tab.3.right" timestamp="1605971739860">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739860" />
+    <state width="1877" height="342" key="GridCell.Tab.4.bottom" timestamp="1605971739860">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.4.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739860" />
+    <state width="1877" height="342" key="GridCell.Tab.4.center" timestamp="1605971739859">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.4.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739859" />
+    <state width="1877" height="342" key="GridCell.Tab.4.left" timestamp="1605971739859">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.4.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739859" />
+    <state width="1877" height="342" key="GridCell.Tab.4.right" timestamp="1605971739859">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="342" key="GridCell.Tab.4.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605971739859" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1603763046086">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1050@0.0.1920.1050" timestamp="1603763046086" />
-    <state x="228" y="126" width="1371" height="728" key="SettingsEditor" timestamp="1603170626232">
+    <state x="603" y="184" width="1183" height="713" key="SettingsEditor" timestamp="1605972673228">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="228" y="126" width="1371" height="728" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603170626232" />
+    <state x="603" y="184" width="1183" height="713" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605972673228" />
     <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603358067912">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -608,6 +690,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="764" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603355598344" />
+    <state x="487" y="260" width="946" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605954082174">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="487" y="260" width="946" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1605954082174" />
     <state x="290" y="102" width="1414" height="819" key="find.popup" timestamp="1602583899823">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -616,14 +702,24 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="334" y="185" width="1231" height="680" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1603416969601" />
-    <state x="616" y="243" key="run.anything.popup" timestamp="1603353674113">
+    <state x="616" y="243" key="run.anything.popup" timestamp="1605950601381">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603353674113" />
-    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1602626862525">
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1605950601381" />
+    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1605972841912">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1602626862525" />
+    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1605972841912" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

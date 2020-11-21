@@ -5,12 +5,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * 正则表达式 工具类
- * @author wangby
- */
-public class RegexUtil {
-
+public class RegexTools {
     /**
      * 从文本中提取所有和正则匹配的内容
      * @param pattern 正则表达式
@@ -29,5 +24,4 @@ public class RegexUtil {
 
         return results;
     }
-
 }

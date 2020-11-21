@@ -13,7 +13,7 @@ import java.util.Arrays;
 public class MyIOTest {
 
     /**
-     * 基本的输入输出流方法测试
+     * InputStream 常用方法
      */
     @Test public void test01() throws IOException {
         InputStream is = new FileInputStream("f:/temp/temp.txt");
@@ -35,15 +35,20 @@ public class MyIOTest {
         is.close();
     }
 
+    /**
+     * InputStream 测试：读取文件中所有数据
+     * @throws IOException
+     */
     @Test public void test02() throws IOException {
         InputStream is = new FileInputStream("f:/temp/temp.txt");
 
         // 定义字节数组存放读取到的内容
         byte[] buf = new byte[16];
+        int len = -1;
         StringBuilder sb = new StringBuilder();
 
-        while(is.read(buf) != -1) {
-            sb.append(new String(buf, "gbk"));
+        while((len = is.read(buf)) != -1) {
+            sb.append(new String(buf, 0, len, "gbk"));
         }
 
         System.out.println(sb.toString());
