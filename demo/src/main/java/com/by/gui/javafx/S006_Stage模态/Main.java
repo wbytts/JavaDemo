@@ -16,7 +16,7 @@ public class Main extends Application {
         Stage s2 = new Stage();
         s2.setTitle("s2");
         s2.initOwner(s1);
-        s2.initModality(Modality.WINDOW_MODAL); // 这个属性需要有Owner设置才可以起作用
+        s2.initModality(Modality.WINDOW_MODAL); // 这个属性需要有 Owner设置才可以起作用
 
 
         Stage s3 = new Stage();

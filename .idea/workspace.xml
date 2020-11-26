@@ -22,32 +22,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5920c410-ae5b-4289-abd7-3898a10156f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/jul/JULTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/log4j/Log4jTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/DateTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/RegexTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/logging.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c05d822f-16ee-4fee-b830-03b870052330.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c05d822f-16ee-4fee-b830-03b870052330/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c05d822f-16ee-4fee-b830-03b870052330/storage_v2/_src_/schema/test.kkQ2AA.meta" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/demo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/io/s01/MyIOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/io/s01/MyIOTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/TestJDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/TestJDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/json/fastjson/FastJsonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/json/fastjson/FastJsonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/regex/TestRegex.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/regex/TestRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/util/DateUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/util/RegexUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/scala/com/by/scala/demo/s002_string/Demo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/scala/com/by/scala/demo/s002_string/Demo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S006_Stage模态/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S006_Stage模态/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/JDBCUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/demo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/demo/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/io/s01/MyIOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/io/s01/MyIOTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/jdbc/TestJDBCUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/jdbc/TestJDBCUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/json/fastjson/FastJsonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/json/fastjson/FastJsonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/regex/TestRegex.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/regex/TestRegex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/util/DateUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/util/RegexUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/log4j.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,14 +106,15 @@
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="207" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="consentGiven" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/demo/src/main/java/com/bingyi/io/aio" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/src/main/java/com/by/jul" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/src/main/java/work/tokr" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46385542" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -131,11 +123,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\IDEA\JavaDemo\demo\src\main\java\work\tokr" />
       <recent name="F:\project\IDEA\JavaDemo\demo\src\main\java\com\by\jul" />
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\jdbc" />
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s012_FlowLayout" />
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s011_JComboBox" />
-      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s010_JCheckBox" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bingyi.poi" />
@@ -151,7 +143,20 @@
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Log4jTest.test01">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.demo.Demo" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.by.gui.awt.HelloWorld" />
       <module name="demo" />
@@ -162,19 +167,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -206,22 +198,6 @@
       <option name="PACKAGE_NAME" value="com.by.jul" />
       <option name="MAIN_CLASS_NAME" value="com.by.jul.JULTest" />
       <option name="METHOD_NAME" value="testFuZi" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JULTest.testJUL01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.by.jul.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.by.jul" />
-      <option name="MAIN_CLASS_NAME" value="com.by.jul.JULTest" />
-      <option name="METHOD_NAME" value="testJUL01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -335,20 +311,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="JUnit.JULTest.testJUL01" />
-      <item itemvalue="JUnit.JULTest.testLevel" />
-      <item itemvalue="JUnit.JULTest.testFuZi" />
+      <item itemvalue="Application.Demo" />
       <item itemvalue="JUnit.JULTest.testAddSelfProperties" />
-      <item itemvalue="Tomcat Server.default" />
+      <item itemvalue="JUnit.JULTest.testFuZi" />
+      <item itemvalue="JUnit.JULTest.testLevel" />
       <item itemvalue="JUnit.Log4jTest.test01" />
+      <item itemvalue="Tomcat Server.default" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
         <item itemvalue="JUnit.Log4jTest.test01" />
-        <item itemvalue="JUnit.JULTest.testAddSelfProperties" />
-        <item itemvalue="JUnit.JULTest.testFuZi" />
         <item itemvalue="JUnit.JULTest.testLevel" />
-        <item itemvalue="JUnit.JULTest.testJUL01" />
+        <item itemvalue="JUnit.JULTest.testFuZi" />
+        <item itemvalue="JUnit.JULTest.testAddSelfProperties" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +466,11 @@
       <workItem from="1605624949536" duration="1152000" />
       <workItem from="1605667000369" duration="799000" />
       <workItem from="1605950244191" duration="6225000" />
-      <workItem from="1605972206464" duration="1435000" />
+      <workItem from="1605972206464" duration="4140000" />
+      <workItem from="1606227068236" duration="699000" />
+      <workItem from="1606287233740" duration="2153000" />
+      <workItem from="1606353743257" duration="3711000" />
+      <workItem from="1606357857681" duration="1024000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1602583983806</created>
@@ -520,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603358041106</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20-11-22">
+      <created>1605977066960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605977066960</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +530,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="Jackson Demo" />
     <MESSAGE value="正则表达式练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="正则表达式练习" />
+    <MESSAGE value="20-11-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="20-11-22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="99" key="#Project_Structure" timestamp="1602580918360">
@@ -562,10 +550,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603936486974" />
-    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603170639696">
+    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606356329966">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1603170639696" />
+    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1606356329966" />
     <state x="266" y="204" width="1066" height="641" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1602580349035">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -578,34 +566,34 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="643" y="244" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1602580598132" />
-    <state x="268" y="79" key="CommitChangelistDialog2" timestamp="1603358038533">
+    <state x="268" y="79" key="CommitChangelistDialog2" timestamp="1605977063257">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="268" y="79" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1603358038533" />
+    <state x="268" y="79" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1605977063257" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1603763039362">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1920.1050@0.0.1920.1050" timestamp="1603763039362" />
-    <state x="765" y="313" key="FileChooserDialogImpl" timestamp="1603437234713">
+    <state x="765" y="313" key="FileChooserDialogImpl" timestamp="1606354666229">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1603437234713" />
-    <state width="1877" height="251" key="GridCell.Tab.0.bottom" timestamp="1605972721942">
+    <state x="765" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1606354666229" />
+    <state width="1877" height="203" key="GridCell.Tab.0.bottom" timestamp="1606290160058">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605972721942" />
-    <state width="1877" height="251" key="GridCell.Tab.0.center" timestamp="1605972721942">
+    <state width="1877" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606290160058" />
+    <state width="1877" height="203" key="GridCell.Tab.0.center" timestamp="1606290160058">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605972721942" />
-    <state width="1877" height="251" key="GridCell.Tab.0.left" timestamp="1605972721941">
+    <state width="1877" height="203" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606290160058" />
+    <state width="1877" height="203" key="GridCell.Tab.0.left" timestamp="1606290160058">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605972721941" />
-    <state width="1877" height="251" key="GridCell.Tab.0.right" timestamp="1605972721942">
+    <state width="1877" height="203" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606290160058" />
+    <state width="1877" height="203" key="GridCell.Tab.0.right" timestamp="1606290160058">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605972721942" />
+    <state width="1877" height="203" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606290160058" />
     <state width="1877" height="342" key="GridCell.Tab.1.bottom" timestamp="1605971739854">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -674,14 +662,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1050@0.0.1920.1050" timestamp="1603763046086" />
-    <state x="603" y="184" width="1183" height="713" key="SettingsEditor" timestamp="1605972673228">
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1606289137753">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="603" y="184" width="1183" height="713" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605972673228" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1603358067912">
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1606289137753" />
+    <state x="534" y="153" width="1183" height="713" key="SettingsEditor" timestamp="1606357752490">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1603358067912" />
+    <state x="534" y="153" width="1183" height="713" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1606357752490" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605977069736">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605977069736" />
     <state x="823" y="369" key="cloudConfig.SelfSettingsDialog" timestamp="1601402045493">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
