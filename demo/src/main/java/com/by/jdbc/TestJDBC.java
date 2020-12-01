@@ -10,8 +10,12 @@ import java.sql.Statement;
 /**
  * @author wangby
  */
-public class TestJDBCUtil {
+public class TestJDBC {
 
+    /**
+     * 执行查询语句，打印结果
+     * @throws SQLException
+     */
     @Test
     public void test01() throws SQLException {
         Connection connection = JDBCUtil.getConnection();

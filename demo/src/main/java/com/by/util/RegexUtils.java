@@ -5,9 +5,9 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class RegexTools {
+public class RegexUtils {
     /**
-     * 从文本中提取所有和正则匹配的内容
+     * 从文本中提取所有和正则匹配的所有内容
      * @param pattern 正则表达式
      * @param text 要处理的文本
      * @return 匹配结果的 List

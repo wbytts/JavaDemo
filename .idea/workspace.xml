@@ -22,23 +22,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5920c410-ae5b-4289-abd7-3898a10156f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/file.template.settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/groovy-scripts/002_test_create_object.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/groovy-scripts/003_变量定义.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/groovy-scripts/004_方法相关.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/groovy-scripts/005_字符串的用法.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/groovy/com/by/groovy/demo/Student.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/base64/Base64Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/collection/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/datastruct/tree/binary_tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/demo/HashtableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/stream/StreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/Base64Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/HttpClientUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/demo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S006_Stage模态/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/gui/javafx/S006_Stage模态/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/demo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/demo/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/TestJDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/jdbc/TestJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/regex/TestRegex.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/regex/TestRegex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/util/DateTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/by/util/RegexTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/by/util/RegexUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/jdbc/TestJDBCUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/by/regex/TestRegex.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/by/regex/TestRegex.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,18 +123,8 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="ImportMappingsDialog.RecentPackages">
-      <recent name="com.wby.domain" />
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\project\IDEA\JavaDemo\demo\src\main\java\work\tokr" />
-      <recent name="F:\project\IDEA\JavaDemo\demo\src\main\java\com\by\jul" />
-      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\jdbc" />
-      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s012_FlowLayout" />
-      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s011_JComboBox" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.by.util" />
       <recent name="com.bingyi.poi" />
       <recent name="com.util" />
       <recent name="com.bingyi.gui.swing.s008_JLabel" />
@@ -142,21 +137,19 @@
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main\resources" />
       <recent name="F:\code\IDEA\JavaDemo\demo\src\main" />
     </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.wby.domain" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\IDEA\JavaDemo\demo\src\main\java\work\tokr" />
+      <recent name="F:\project\IDEA\JavaDemo\demo\src\main\java\com\by\jul" />
+      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\jdbc" />
+      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s012_FlowLayout" />
+      <recent name="F:\code\IDEA\JavaDemo\demo\src\main\java\com\bingyi\gui\swing\s011_JComboBox" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.by.demo.Demo" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.by.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.StreamDemo01.test01">
     <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.by.gui.awt.HelloWorld" />
       <module name="demo" />
@@ -171,64 +164,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JULTest.testAddSelfProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.datastruct.tree.binary_tree.Node" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.jul.*" />
+          <option name="PATTERN" value="com.by.datastruct.tree.binary_tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.jul" />
-      <option name="MAIN_CLASS_NAME" value="com.by.jul.JULTest" />
-      <option name="METHOD_NAME" value="testAddSelfProperties" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="003_变量定义" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="demo" />
+      <setting name="path" value="file://$PROJECT_DIR$/demo/src/main/groovy-scripts/003_变量定义.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/demo/src/main/groovy-scripts" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base64Demo.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.base64.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.by.base64" />
+      <option name="MAIN_CLASS_NAME" value="com.by.base64.Base64Demo" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JULTest.testFuZi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HashtableDemo.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.jul.*" />
+          <option name="PATTERN" value="com.by.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.jul" />
-      <option name="MAIN_CLASS_NAME" value="com.by.jul.JULTest" />
-      <option name="METHOD_NAME" value="testFuZi" />
+      <option name="PACKAGE_NAME" value="com.by.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.by.demo.HashtableDemo" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JULTest.testLevel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamDemo01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.by.jul.*" />
+          <option name="PATTERN" value="com.by.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.by.jul" />
-      <option name="MAIN_CLASS_NAME" value="com.by.jul.JULTest" />
-      <option name="METHOD_NAME" value="testLevel" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Log4jTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.by.log4j.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.by.log4j" />
-      <option name="MAIN_CLASS_NAME" value="com.by.log4j.Log4jTest" />
+      <option name="PACKAGE_NAME" value="com.by.stream" />
+      <option name="MAIN_CLASS_NAME" value="com.by.stream.StreamDemo01" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -311,20 +323,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="JUnit.JULTest.testAddSelfProperties" />
-      <item itemvalue="JUnit.JULTest.testFuZi" />
-      <item itemvalue="JUnit.JULTest.testLevel" />
-      <item itemvalue="JUnit.Log4jTest.test01" />
+      <item itemvalue="Application.Node" />
+      <item itemvalue="Groovy.003_变量定义" />
       <item itemvalue="Tomcat Server.default" />
+      <item itemvalue="JUnit.Base64Demo.test01" />
+      <item itemvalue="JUnit.HashtableDemo.test01" />
+      <item itemvalue="JUnit.StreamDemo01.test01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="JUnit.Log4jTest.test01" />
-        <item itemvalue="JUnit.JULTest.testLevel" />
-        <item itemvalue="JUnit.JULTest.testFuZi" />
-        <item itemvalue="JUnit.JULTest.testAddSelfProperties" />
+        <item itemvalue="JUnit.StreamDemo01.test01" />
+        <item itemvalue="JUnit.HashtableDemo.test01" />
+        <item itemvalue="JUnit.Base64Demo.test01" />
+        <item itemvalue="Application.Node" />
+        <item itemvalue="Groovy.003_变量定义" />
       </list>
     </recent_temporary>
   </component>
@@ -471,6 +483,10 @@
       <workItem from="1606287233740" duration="2153000" />
       <workItem from="1606353743257" duration="3711000" />
       <workItem from="1606357857681" duration="1024000" />
+      <workItem from="1606469808145" duration="206000" />
+      <workItem from="1606543802602" duration="3932000" />
+      <workItem from="1606697853714" duration="5354000" />
+      <workItem from="1606789450301" duration="7212000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1602583983806</created>
@@ -550,10 +566,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603936486974" />
-    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606356329966">
+    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606547571252">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1606356329966" />
+    <state x="948" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1606547571252" />
     <state x="266" y="204" width="1066" height="641" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1602580349035">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -578,22 +594,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="313" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1606354666229" />
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom" timestamp="1606290160058">
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom" timestamp="1606805221059">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606290160058" />
-    <state width="1877" height="203" key="GridCell.Tab.0.center" timestamp="1606290160058">
+    <state width="1877" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606805221059" />
+    <state width="1877" height="230" key="GridCell.Tab.0.center" timestamp="1606805221059">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606290160058" />
-    <state width="1877" height="203" key="GridCell.Tab.0.left" timestamp="1606290160058">
+    <state width="1877" height="230" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606805221059" />
+    <state width="1877" height="230" key="GridCell.Tab.0.left" timestamp="1606805221059">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606290160058" />
-    <state width="1877" height="203" key="GridCell.Tab.0.right" timestamp="1606290160058">
+    <state width="1877" height="230" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606805221059" />
+    <state width="1877" height="230" key="GridCell.Tab.0.right" timestamp="1606805221059">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606290160058" />
+    <state width="1877" height="230" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606805221059" />
     <state width="1877" height="342" key="GridCell.Tab.1.bottom" timestamp="1605971739854">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -694,14 +710,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="334" y="185" width="1231" height="680" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1603416969601" />
-    <state x="616" y="243" key="run.anything.popup" timestamp="1605950601381">
+    <state x="616" y="243" key="run.anything.popup" timestamp="1606728925947">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1605950601381" />
-    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1605972841912">
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606728925947" />
+    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1606547615524">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1605972841912" />
+    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606547615524" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

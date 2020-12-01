@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-public class DateTools {
+public class DateUtils {
 
     /**
      * 按 yyyy-MM-dd HH:mm:ss 样式获取当前日期
