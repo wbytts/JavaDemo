@@ -16,6 +16,7 @@ public class HelloWorld extends Application {
     public void start(Stage primaryStage) throws Exception {
         primaryStage.show();
         primaryStage.setTitle("第一个JavaFX程序");
+        System.out.println("调用了 start 方法");
     }
 
 }

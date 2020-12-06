@@ -1,6 +1,7 @@
 package com.by.gui.javafx.S005_Stage模式;
 
 import javafx.application.Application;
+import javafx.application.Platform;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 
@@ -50,7 +51,8 @@ public class Main extends Application {
         s5.initStyle(StageStyle.UTILITY);
         s5.show();
 
-        // Platform.exit(); // 都退出
+        Thread.sleep(10000);
+        Platform.exit(); // 退出所有窗口
     }
 
     public static void main(String[] args) {

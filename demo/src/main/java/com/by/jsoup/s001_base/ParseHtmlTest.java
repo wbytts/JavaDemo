@@ -1,4 +1,4 @@
-package com.by.spider.jsoup.s001_base;
+package com.by.jsoup.s001_base;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

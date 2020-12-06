@@ -1,4 +1,4 @@
-package com.by.spider.http_client.s004_connection_pool;
+package com.by.http_client.s004_connection_pool;
 
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;

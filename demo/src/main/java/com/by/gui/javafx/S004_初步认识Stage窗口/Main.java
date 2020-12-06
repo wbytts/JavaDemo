@@ -44,13 +44,14 @@ public class Main extends Application {
             }
         });
 
-        // 监听窗口坐标的变动
+        // 监听窗口 x坐标 的变动
         primaryStage.xProperty().addListener(new ChangeListener<Number>() {
             @Override
             public void changed(ObservableValue<? extends Number> observable, Number oldValue, Number newValue) {
                 System.out.println("x = " + newValue);
             }
         });
+        // 监听窗口 y坐标 的变动
         primaryStage.yProperty().addListener(new ChangeListener<Number>() {
             @Override
             public void changed(ObservableValue<? extends Number> observable, Number oldValue, Number newValue) {
@@ -59,8 +60,8 @@ public class Main extends Application {
         });
 
         // 设置全屏（与最大化不同）
-        primaryStage.setFullScreen(true);
-        primaryStage.setScene(new Scene(new Group()));
+        //primaryStage.setFullScreen(true);
+        //primaryStage.setScene(new Scene(new Group()));
 
         primaryStage.show(); // 让窗口进行显示
         // primaryStage.close(); // 关闭窗口

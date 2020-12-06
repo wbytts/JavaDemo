@@ -1,4 +1,4 @@
-package com.by.spider.http_client.s001_CrawlerFirst;
+package com.by.http_client.s001_CrawlerFirst;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;

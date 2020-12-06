@@ -1,38 +1,42 @@
-package com.by.spider.http_client.s005_request_params;
+package com.by.http_client.s003_post;
 
 import org.apache.http.HttpEntity;
-import org.apache.http.client.config.RequestConfig;
+import org.apache.http.NameValuePair;
+import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
+import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * @author bingyi
  */
-public class RequestParamsTest {
-    public static void main(String[] args) {
+public class PostParamTest {
+    public static void main(String[] args) throws UnsupportedEncodingException {
         // 打开浏览器
         CloseableHttpClient client = HttpClients.createDefault();
-        // 输入网址，创建 HttpGet 对象
-        HttpGet httpGet = new HttpGet("http://www.baidu.com");
+        // 输入网址，创建 HttpPost 对象
+        HttpPost httpPost = new HttpPost("http://www.baidu.com");
 
-        // 配置请求信息
-        RequestConfig config = RequestConfig.custom()
-                .setConnectTimeout(1000) // 创建连接的最长时间，单位毫秒
-                .setConnectionRequestTimeout(500) // 设置获取连接的最长时间，单位毫秒
-                .setSocketTimeout(10*1000) // 设置数据传输的最长时间，单位毫秒
-                .build();
-        // 给请求设置请求信息
-        httpGet.setConfig(config);
-
+        // 声明 List 集合，封装表单中的参数
+        List<NameValuePair> params = new ArrayList<>();
+        params.add(new BasicNameValuePair("key", "value"));
+        params.add(new BasicNameValuePair("key2", "value2"));
+        // 创建表单的Entity对象，第一个参数是封装好的表单列表，第二个是编码
+        UrlEncodedFormEntity formEntity = new UrlEncodedFormEntity(params, "utf8");
+        // 设置表单的Entity对象到Post请求中
+        httpPost.setEntity(formEntity);
         // 发起请求，使用 HttpClient 对象发起请求
         CloseableHttpResponse response = null;
         try {
-            response = client.execute(httpGet);
+            response = client.execute(httpPost);
             // 解析响应，获取数据
             // 判断响应状态是否正常
             if(response.getStatusLine().getStatusCode()==200) {
