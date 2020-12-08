@@ -14,7 +14,7 @@ import java.io.IOException;
  */
 public class CrawserFirst {
     public static void main(String[] args) throws IOException {
-        // 打开浏览器
+        // 打开浏览器 CloseableHttpClient 可关闭的 Http 客户端
         CloseableHttpClient client = HttpClients.createDefault();
         // 输入网址，创建 HttpGet 对象
         HttpGet httpGet = new HttpGet("http://www.baidu.com");
@@ -22,7 +22,7 @@ public class CrawserFirst {
         CloseableHttpResponse response = client.execute(httpGet);
         // 解析响应，获取数据
         // 判断响应状态是否正常
-        if(response.getStatusLine().getStatusCode()==200) {
+        if (response.getStatusLine().getStatusCode() == 200) {
             HttpEntity httpEntity = response.getEntity();
             String content = EntityUtils.toString(httpEntity, "utf8");
             System.out.println(content);
