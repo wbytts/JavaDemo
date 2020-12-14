@@ -9,6 +9,7 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
 
 import java.io.IOException;
+import java.net.URI;
 import java.net.URISyntaxException;
 
 /**
@@ -22,29 +23,26 @@ public class GetParamTest {
         HttpGet httpGet = null;
         // 设置请求参数
         // 创建 URIBuilder
-        URIBuilder uriBuilder = null;
-        try {
-            uriBuilder = new URIBuilder("http://www.baidu.com");
-            uriBuilder.setParameter("key", "value")
-                    .setParameter("key2", "value2");
 
-            httpGet = new HttpGet(uriBuilder.build());
+        try {
+            // 构建带参数的 URI
+            URI uri = new URIBuilder("http://www.baidu.com")
+                    .setParameter("key", "value")
+                    .setParameter("key2", "value2")
+                    .build();
+            // 创建 HttpGet 对象
+            httpGet = new HttpGet(uri);
         } catch (URISyntaxException e) {
             e.printStackTrace();
         }
 
-        // 输入网址，创建 HttpGet 对象
-
-
-        // 打印请求信息
-        System.out.println("发起请求的信息:" + httpGet);
         // 发起请求，使用 HttpClient 对象发起请求
         CloseableHttpResponse response = null;
         try {
             response = client.execute(httpGet);
             // 解析响应，获取数据
             // 判断响应状态是否正常
-            if(response.getStatusLine().getStatusCode()==200) {
+            if (response.getStatusLine().getStatusCode() == 200) {
                 HttpEntity httpEntity = response.getEntity();
                 String content = EntityUtils.toString(httpEntity, "utf8");
                 System.out.println(content.length());

@@ -1,4 +1,4 @@
-package com.by.poi.work.风险点;
+package com.by.poi.work.riskinfo;
 
 
 import lombok.AllArgsConstructor;
@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class BaseInfo {
+public class RiskBaseInfo {
     private String id;
     private String responsible_dept_id;
     private String responsible_dept_name;

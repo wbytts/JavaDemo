@@ -39,7 +39,7 @@ public class PostParamTest {
             response = client.execute(httpPost);
             // 解析响应，获取数据
             // 判断响应状态是否正常
-            if(response.getStatusLine().getStatusCode()==200) {
+            if(null != response && response.getStatusLine().getStatusCode()==200) {
                 HttpEntity httpEntity = response.getEntity();
                 String content = EntityUtils.toString(httpEntity, "utf8");
                 System.out.println(content.length());
@@ -49,12 +49,16 @@ public class PostParamTest {
         } finally {
             // 资源的释放，关闭response
             try {
-                response.close();
+                if(null != response) {
+                    response.close();
+                }
             } catch (IOException e) {
                 e.printStackTrace();
             }
             try {
-                client.close();
+                if(null != client) {
+                    client.close();
+                }
             } catch (IOException e) {
                 e.printStackTrace();
             }
