@@ -43,11 +43,11 @@
             <version>4.1.2</version>
         </dependency>
         <!-- 阿里 EasyExcel 这里面导入了 poi 可能会与已经导入的poi冲突 -->
-<!--        <dependency>-->
-<!--            <groupId>com.alibaba</groupId>-->
-<!--            <artifactId>easyexcel</artifactId>-->
-<!--            <version>2.2.6</version>-->
-<!--        </dependency>-->
+        <!--        <dependency>-->
+        <!--            <groupId>com.alibaba</groupId>-->
+        <!--            <artifactId>easyexcel</artifactId>-->
+        <!--            <version>2.2.6</version>-->
+        <!--        </dependency>-->
 
 
         <!-- 日期格式化工具 -->
@@ -178,6 +178,13 @@
             <artifactId>httpmime</artifactId>
             <version>4.5.5</version>
         </dependency>
+
+        <dependency>
+            <groupId>net.sourceforge.jexcelapi</groupId>
+            <artifactId>jxl</artifactId>
+            <version>2.6.12</version>
+        </dependency>
+
     </dependencies>
 
     <build>

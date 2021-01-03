@@ -10,25 +10,25 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception {
 
         /*
-            DECORATED
+            DECORATED   普通背景有装饰
                 Defines a normal Stage style with a solid white background and platform decorations.
 
-            TRANSPARENT
+            TRANSPARENT   透明背景无装饰
                 Defines a Stage style with a transparent background and no decorations.
 
-            UNDECORATED
+            UNDECORATED   纯白背景无装饰
                 Defines a Stage style with a solid white background and no decorations.
 
-            UNIFIED
+            UNIFIED   用平台装饰定义舞台风格，消除客户区和装饰之间的边界
                 Defines a Stage style with platform decorations and eliminates the border between client area and decorations.
 
-            UTILITY
+            UTILITY   定义一个舞台样式，它具有纯白色背景和用于工具窗口的最小平台装饰
                 Defines a Stage style with a solid white background and minimal platform decorations used for a utility window.
          */
 
         Stage s1 = new Stage();
         s1.setTitle("s1");
-        s1.initStyle(StageStyle.DECORATED);
+        s1.initStyle(StageStyle.DECORATED);  // 初始化 Stage 类型
         s1.show();
 
         Stage s2 = new Stage();

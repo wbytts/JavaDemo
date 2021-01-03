@@ -3,5 +3,6 @@ target/
 demo.iml
 build.xml
 META-INF/
-
-**/*.class
+.classpath
+.project
+*.class

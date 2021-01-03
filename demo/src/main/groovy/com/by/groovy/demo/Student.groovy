@@ -9,6 +9,12 @@ class Student {
     def email // Groovy 定义属性的语法，弱类型
 }
 
+class Student2 {
+    def username
+    def age
+    def email
+}
+
 
 
 

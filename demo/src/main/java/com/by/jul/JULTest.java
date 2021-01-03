@@ -10,7 +10,8 @@ public class JULTest {
 
 
     /**
-     * 快速入门
+     * 快速入门，
+     * JUL：java.util.logging   Java自带的日志框架
      */
     @Test
     public void testJUL01() {

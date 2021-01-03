@@ -9,4 +9,5 @@ println s.getUsername()  // 调用自动生成的 getter、setter 方法
 println s.age  // 私有属性也可以 点属性 来调用
 println s.email
 
-
+int a = 3
+println "a = ${a}"
