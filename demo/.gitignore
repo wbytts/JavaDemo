@@ -5,4 +5,4 @@ build.xml
 META-INF/
 .classpath
 .project
-*.class
+**/*.class
