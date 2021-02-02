@@ -15,7 +15,8 @@ public class MyIOTest {
     /**
      * InputStream 常用方法
      */
-    @Test public void test01() throws IOException {
+    @Test
+    public void test01() throws IOException {
         InputStream is = new FileInputStream("f:/temp/temp.txt");
         int read = is.read();
         /*
@@ -39,7 +40,8 @@ public class MyIOTest {
      * InputStream 测试：读取文件中所有数据
      * @throws IOException
      */
-    @Test public void test02() throws IOException {
+    @Test
+    public void test02() throws IOException {
         InputStream is = new FileInputStream("f:/temp/temp.txt");
 
         // 定义字节数组存放读取到的内容
