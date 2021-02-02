@@ -96,6 +96,8 @@ public class Main extends Application {
             }
         });
 
+        // Group 只能算一个容器，不能算一个布局，给Group加背景应该没效果
+
         // 将 Group 添加到 Scene 上
         Scene scene = new Scene(group);
         primaryStage.setScene(scene);
